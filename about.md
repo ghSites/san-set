@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Aboutxxx
+published: true
 ---
 
 <p class="message">
