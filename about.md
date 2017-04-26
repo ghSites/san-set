@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aboutxxx
+title: About
 published: true
 ---
 
